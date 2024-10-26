@@ -5,6 +5,7 @@ I am a student of "Ingeniería en Informática" career at the Faculty of Enginee
 I'm a developer in training, always looking to learn more about new technologies. 🎮
 
 <img src="https://i.pinimg.com/originals/be/8a/8b/be8a8bf1a720cdf5f5c223e419dadae1.gif" width="300">
+<img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="300">
 
  📫 Contact: [LinkedIn](https://www.linkedin.com/in/diegoandrade) or send me a mail: diegoe.andrade05@gmai.com
  
