@@ -10,7 +10,7 @@ I'm a developer in training, always looking to learn more about new technologies
 </h1>
 
 
- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/diegoandrade) or send me a mail: diegoe.andrade05@gmai.com
+ 📫 Contact: [LinkedIn](https://www.linkedin.com/in/diegoandrade) or send me a mail: diegoe.andrade05@gmail.com
  
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dieandrde&show_icons=true&theme=radical)
