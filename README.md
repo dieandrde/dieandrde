@@ -1,8 +1,11 @@
-# 👋 Hi! I'm Diego
-### Welcome to my GitHub profile
+<div align= "center">
+<h1 align="center"> Hi! I'm Diego👋 </h1>
+<h1 align="center"> Welcome to my GitHub profile </h1>
 
+## About Me
 I am a student of "Ingeniería en Informática" career at the Faculty of Engineering of the University of Buenos Aires (UBA)
 I'm a developer in training, always looking to learn more about new technologies. 🎮
+I have experience in web development, I have uploaded projects here, I invite you to review them!
 
 <h1 align="center">
  <img src="https://i.pinimg.com/originals/be/8a/8b/be8a8bf1a720cdf5f5c223e419dadae1.gif" width="300">
