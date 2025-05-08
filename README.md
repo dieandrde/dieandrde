@@ -11,7 +11,7 @@
 # 💫 About Me:
 - 📚Student of "Ingeniería en Informática" at the University of Buenos Aires (UBA)
 - 🎮Developer in training, always looking to learn more about new technologies.
-- 💻I have experience in web development, I have uploaded projects here and I invite you to review them!
+- 💻I have experience in Front-End development, I've uploaded projects here and I invite you to review them!
 
 
 ## 🌐 Socials:
